@@ -1,6 +1,6 @@
 # Concentrated Associations in Contingency Tables
 
-Code and protocol for the simulation study by Eungi Kim (Keimyung University). Requires Python 3 with numpy, scipy, pandas, and matplotlib.
+Code and protocol for the simulation study by Eungi Kim. Requires Python 3 with numpy, scipy, pandas, and matplotlib.
 
 ```
 python3 theory_checks.py out/theory
